@@ -14,21 +14,3 @@ Note: After download the models file from yolo, put them in yolo folder
 ## 📁 Project Structure
 
 <img src="project_structure.webp" alt="Project Structure" width="500"/>
-
-.
-├── Data/
-│   └── video.mp4              # Input video file
-│
-├── rolo/
-│   ├── demo.py                # Runs the ROLO object tracking demo
-│   ├── rolo_sim.py            # Simulation or testing for ROLO
-│   └── yolo_wrapper.py        # Wrapper to integrate YOLO with ROLO
-│
-├── yolo/
-│   ├── file.cfg               # YOLO configuration file
-│   ├── file.weights           # Pre-trained YOLO weights
-│   └── coco.names             # Class labels (COCO dataset)
-│
-├── app.py                     # Main Streamlit app for the project
-├── requirements.txt           # Required Python packages
-└── README.md                  # Project documentation

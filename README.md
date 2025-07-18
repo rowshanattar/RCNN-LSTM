@@ -13,4 +13,4 @@ Note: After download the models file from yolo, put them in yolo folder
 
 ## 📁 Project Structure
 
-<img src="https://git.informatik.uni-rostock.de/ps2343/rcnn-seminar2025/-/raw/main/project_structure.webp" alt="Project Structure" width="500"/>
+<img src="project_structure.webp" alt="Project Structure" width="500"/>
